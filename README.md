@@ -33,18 +33,21 @@ The following plots illustrate key findings from our analysis:
 1. **Cocoa Percentage vs. Rating**
 
    This scatter plot shows that chocolate bars with cocoa content between 63-77% generally have higher ratings.
+   
    ![image](https://github.com/user-attachments/assets/7db4875e-556c-4816-a184-bab851b278ae)
 
 
 3. **Top Cocoa Bean Origins**
 
    The bar chart highlights that cocoa from Madagascar, Venezuela, and  Dominican Republic tends to have higher ratings.
+   
    ![image](https://github.com/user-attachments/assets/d65c4c40-2eb9-46e4-a2fb-37882414deb9)
 
 
 5. **Average Ratings of Chocolate-Producing Countries**
 
    A comparison of the average ratings for the top 5 chocolate-producing countries, showing Chile and Amsterdam leading the list.
+   
    ![image](https://github.com/user-attachments/assets/56a8b782-fee2-4dcf-9fab-089319f1f92b)
 
    
@@ -52,6 +55,7 @@ The following plots illustrate key findings from our analysis:
 7. **Rating Trends Over Time for Top Companies**
 
    This line graph demonstrates how ratings for companies like Soma and Bonnat have changed over the years.
+   
    ![image](https://github.com/user-attachments/assets/29447192-9a1c-442b-a514-4a6f4ec3c265)  
 
    
